@@ -1,0 +1,26 @@
+{
+  "name": "create-glyph",
+  "version": "0.0.1",
+  "description": "create an glyph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-glyph": "bin/create-glyph"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/create-glyph.git"
+  },
+  "author": "Melvin Carvalho",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/create-glyph/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/create-glyph#readme",
+  "keywords": [
+    "aam",
+    "create-glyph",
+    "glyph"
+  ]
+}
